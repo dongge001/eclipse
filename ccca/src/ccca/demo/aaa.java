@@ -6,6 +6,5 @@ public class aaa {
 		System.out.println("ss");
 	}
 	public void fan(){
-		
 	}
 }
