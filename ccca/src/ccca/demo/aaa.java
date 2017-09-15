@@ -5,4 +5,7 @@ public class aaa {
 	public void fun(){
 		System.out.println("ss");
 	}
+	public void fan(){
+		
+	}
 }
